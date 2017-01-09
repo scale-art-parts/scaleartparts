@@ -1,0 +1,22 @@
+var customNavTree39 = WpNavBar.readTree({
+"childArray" : [{   sTitle:'Home',
+    bIsWebPath:true,
+    sUrl:'index.html'},{   sTitle:'Scale Art Parts F Scale',
+    bIsWebPath:true,
+    sUrl:'page6.html',"childArray" : [{   sTitle:'Detail Parts',
+        bIsWebPath:true,
+        sUrl:'page7a.html'},{   sTitle:'Sets and Kits',
+        bIsWebPath:true,
+        sUrl:'page20.html',"childArray" : [{   sTitle:'Fencing',
+            bIsWebPath:true,
+            sUrl:'page19.html'}]},{   sTitle:'Doors',
+        bIsWebPath:true,
+        sUrl:'page11.html'},{   sTitle:'Windows',
+        bIsWebPath:true,
+        sUrl:'page11a.html'}]},{   sTitle:'Gallery',
+    bIsWebPath:true,
+    sUrl:'page30.html',
+    sTarget:'_blank'},{   sTitle:'Links',
+    bIsWebPath:true,
+    sUrl:'page9.html'}]
+});

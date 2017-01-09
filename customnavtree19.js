@@ -1,0 +1,21 @@
+var customNavTree19 = WpNavBar.readTree({
+"childArray" : [{   sTitle:'Scale Art Parts O',
+    bIsWebPath:true,
+    sUrl:'page24.html',
+    sTarget:'_self'},{   sTitle:'scaleartmodels.com',
+    sUrl:'http://www.scaleartmodels.com',
+    sTarget:'_blank'},{   sTitle:'Gallery',
+    bIsWebPath:true,
+    sUrl:'page30.html',
+    sTarget:'_blank'},{   sTitle:'Contact',
+    bIsWebPath:true,
+    sUrl:'page7.html'},{   sTitle:'Odering info',
+    bIsWebPath:true,
+    sUrl:'ordering.html',
+    sTarget:'_self'},{   sTitle:'Hints & Tips',
+    bIsWebPath:true,
+    sUrl:'page9a.html',
+    sTarget:'_blank'},{   sTitle:'Links',
+    bIsWebPath:true,
+    sUrl:'page9.html'}]
+});
